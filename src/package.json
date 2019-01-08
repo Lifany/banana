@@ -1,0 +1,14 @@
+{
+  "name": "pranky",
+  "version": "0.0.1",
+  "description": "For people who leave their sessions unlocked.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mehdi Bounya",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
